@@ -6,15 +6,6 @@ El objetivo fue **analizar las ventas por cliente, categoría, material y tipo d
 
 ---
 
-## 🚀 Contenido del repositorio  
-
-- `dattec_case.ipynb` → Notebook con el preprocesamiento, exploración y preparación de datos.  
-- `dattec_case.pbix` → Archivo de Power BI con las visualizaciones interactivas.  
-- `/data` → Archivos de entrada (Excel/CSV) utilizados para la construcción del modelo.  
-- `/images` → Capturas de los dashboards incluidos en el informe.  
-
----
-
 ## 📈 Metodología  
 
 1. **Procesamiento de datos**  
