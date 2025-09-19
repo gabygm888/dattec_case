@@ -1,4 +1,4 @@
-# 📊 DattEc Case – Caso de Estudio  
+# 📊 Dattec – Caso de Estudio  
 
 Este proyecto corresponde a un **caso de estudio desarrollado para DattEc S.A.**, en el cual se construyó un flujo completo de análisis de datos y visualización en Power BI.  
 
