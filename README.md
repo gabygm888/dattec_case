@@ -31,16 +31,13 @@ El objetivo fue **analizar las ventas por cliente, categoría, material y tipo d
 - Ventas totales, ventas por tipo de mercado y crecimiento porcentual.  
 - Evolución temporal de ventas.  
 - Unidades totales vendidas.  
-
-![Métricas de interés](./images/metrics.png)  
+ 
 
 ### Análisis por clientes y categorías  
 - Ventas por categoría y cliente.  
 - Top 10 clientes por ventas.  
 - Top 10 materiales más vendidos.  
-- Distribución total por categoría.  
-
-![Análisis de clientes y categorías](./images/categories_clients.png)  
+- Distribución total por categoría.   
 
 ---
 
