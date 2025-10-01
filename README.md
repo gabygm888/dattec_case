@@ -1,6 +1,6 @@
 # 📊 Dattec – Caso de Estudio  
 
-Este proyecto corresponde a un **caso de estudio desarrollado para Dattec S.A.S**, en el cual se construyó un flujo completo de análisis de datos y visualización en Power BI.  
+Este proyecto corresponde a un caso de estudio, en el cual se construyó un flujo completo de análisis de datos y visualización en Power BI.  
 
 El objetivo fue **analizar las ventas por cliente, categoría, material y tipo de mercado**, implementando métricas de interés, segmentación dinámica y un dashboard interactivo que facilite la toma de decisiones estratégicas.
 
